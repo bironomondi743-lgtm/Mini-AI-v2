@@ -2,7 +2,7 @@
 
 > Built on 8GB RAM, 1.6GHz, no GPU — Nairobi, Kenya. Google Colab + Drive only.
 
-![Experiment 002E](./assets/experiment.png)
+![Experiment 002E](https://github.com/user-attachments/assets/a543652a-8bb6-4846-9854-819ac96ac9e4)
 
 ### Experiment 002E: Tokenizer Vocabulary Size vs Efficiency
 
